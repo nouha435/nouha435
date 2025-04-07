@@ -28,7 +28,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nouhaila/nouhaila/output/snake.svg" alt="Snake animation" />
+### 🐍 Snake Contribution Graph
+
+<img src="https://github.com/nouhailamaarouf/nouhailamaarouf/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 
 ###
 <h3 align="left">Connect with me:</h3>
