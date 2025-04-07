@@ -30,8 +30,7 @@
 
 ### 🐍 Snake Contribution Graph
 
-<img src="https://github.com/nouhailamaarouf/nouhailamaarouf/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-
+<img src="https://github.com/nouha435/nouha435/blob/output/github-contribution-grid-snake.svg" />
 ###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
