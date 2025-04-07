@@ -29,9 +29,10 @@
 <br clear="both">
 
 ### 🐍 Snake Contribution Graph
+<br clear="both">
 
-<img src="https://github.com/nouha435/nouha435/blob/output/github-contribution-grid-snake.svg" />
-###
+<img src="https://raw.githubusercontent.com/nouha435/nouha435/output/snake.svg" alt="Snake animation" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/nouhaila-maarouf-a33255201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nouhaila-maarouf-a33255201" height="30" width="40" /></a>
